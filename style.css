@@ -1,0 +1,53 @@
+.nivo-caption {
+    color: #fff;
+	position: absolute;
+	left: 75px;
+	right: 0;
+	z-index: 8;
+	overflow: hidden;
+	display: none;
+	width: 570px;
+	text-align: left;
+	margin-left: 50px;
+	top: 30%;
+}
+.builder-side{
+    position: absolute;
+    margin-top: -40px;
+    z-index: 999;
+    width: 100%;
+}
+.carouselWithIndicators{
+    z-index: -2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
